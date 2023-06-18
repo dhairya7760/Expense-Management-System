@@ -1,0 +1,11 @@
+[
+  {
+    "name": "date",
+    "type": "date",
+    "format": "%d-%m-%Y"
+  },
+  {
+    "name": "expense",
+    "type": "number"
+  }
+]

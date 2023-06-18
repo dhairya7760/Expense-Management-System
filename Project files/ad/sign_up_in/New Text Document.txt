@@ -1,0 +1,4 @@
+use expense_manager_test;
+create table user_login_test( username varchar(64) primary key, password varchar(256),email varchar(100),created_at datetime,table_name varchar(64));
+use expense_manager_test;
+create table user_master(username varchar(64) primary key)
